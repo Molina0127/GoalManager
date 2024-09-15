@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi criado com as seguintes tecnologias:
@@ -16,3 +22,5 @@ Pretendo realizar algumas alterações mas a forma como está atualmente já é 
 ## 🧑🏻‍💻 Aprendizado
 
 Esse projeto foi feito desenvolvido assistindo as aulas do NLW Pocket JavaScript, tal projeto me ajudou a entender melhor conceitos importantes de JavaScript, como Arrow Functions, Promises, Async/Await e entre outros.
+
+Feito com ❤️ por Guilherme :wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
