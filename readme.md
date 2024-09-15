@@ -1,0 +1,1 @@
+Projeto criado no NLW Pocket JavaScript. Esse projeto me ajudou a entender vários conceitos importantes de JavaScript como Arrow Functions, Promises, Async/Await e outros conceitos bem legais.
