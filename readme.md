@@ -6,13 +6,32 @@
     <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
 </p>
 
+## Setup
+
+Faça o clone desse repostiório e instale as dependências.
+
+```bash
+git clone https://github.com/Molina0127/GoalManager.git
+cd GoalManager
+```
+
+```bash
+npm install
+```
+
+## Pre-requisitos
+
+## Instalação
+
+Aqui a baixo você vai ver como usar esse projeto na sua própria máquina
+
 ## 🚀 Tecnologias
 
 Esse projeto foi criado com as seguintes tecnologias:
 
 - JavaScript
-- Nodejs
-- Inquirer (biblioteca Nodejs)
+- Node.js
+- Inquirer (biblioteca Node.js)
 - Git e github
 
 ## 💻 Projeto
