@@ -18,12 +18,12 @@ cd GoalManager
 ```bash
 npm install
 ```
-
+<!-- 
 ## Pre-requisitos
 
 ## Instalação
 
-Aqui a baixo você vai ver como usar esse projeto na sua própria máquina
+Aqui a baixo você vai ver como usar esse projeto na sua própria máquina -->
 
 ## 🚀 Tecnologias
 
