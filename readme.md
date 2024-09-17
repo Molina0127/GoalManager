@@ -8,7 +8,7 @@
 
 ## Setup
 
-Faça o clone desse repostiório e instale as dependências.
+Faça o clone desse repositório e instale as dependências.
 
 ```bash
 git clone https://github.com/Molina0127/GoalManager.git
