@@ -19,6 +19,12 @@ cd GoalManager
 npm install
 ```
 
+Depois de instalar o npm instale o inquirer
+
+```bash
+npm install inquirer
+```
+
 ## 🚀 Tecnologias
 
 Esse projeto foi criado com as seguintes tecnologias:
