@@ -8,22 +8,26 @@
 
 ## Setup
 
-Faça o clone desse repositório e instale as dependências.
+Faça o clone desse repositório
 
 ```bash
 git clone https://github.com/Molina0127/GoalManager.git
 cd GoalManager
 ```
 
+Instale as dependências
+
 ```bash
 npm install
 ```
 
-Depois de instalar o npm instale o inquirer
+Depois instale o inquirer
 
 ```bash
 npm install inquirer
 ```
+
+Para utilizar o projeto comece criando uma tarefa
 
 ## 🚀 Tecnologias
 
